@@ -8,7 +8,10 @@ Simply duplicate the template and start doing!
 
 ## Paper Name
 
--
+- Fine-Grained Named Entity Recognition in Legal Documents(thanks springer for open access,very cool)
+Open Access
+Conference paper
+First Online: 04 November 2019
 
 ## Compile list of papers/medium articles/blogs
 
@@ -20,7 +23,7 @@ Read
 
 ### Title + Abstract + Figures
 
-[ ] Done
+[x] Done
 
 ### Intro + Conclusion + Figures + Skim Rest  + Skip related work
 
